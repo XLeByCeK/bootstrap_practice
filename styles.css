@@ -1,0 +1,10 @@
+[class*="col"] {
+    padding: 1rem;
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    text-align: center;
+}
+
+.nested-col {
+    background-color: #e9ecef;
+}
